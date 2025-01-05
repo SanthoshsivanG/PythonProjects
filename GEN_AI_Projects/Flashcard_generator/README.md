@@ -3,7 +3,8 @@
 I have been using Quizlet for long time to study and revise kanji for Japanese studies.
 Even though Quizlet does a great job by providing easy ways to create flashcard , I want to automate the process.
 
-I used to enter every kanji on Quizlet and their corresponding English meaning and Hiragana readings manually. So, I decided to automate it using python by following steps
+I used to enter every kanji on Quizlet and their corresponding English meaning and Hiragana readings manually. 
+So, I decided to automate it using python by creating a windows app by following steps
 
 Step 1 : Take screenshot of a page that contain kanji readings 
 

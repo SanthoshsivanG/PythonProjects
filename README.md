@@ -1,2 +1,2 @@
 # PythonProjects
- Beginner python tutorials
+ Beginner python projects
